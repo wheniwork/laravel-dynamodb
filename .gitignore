@@ -6,3 +6,4 @@ dynamodb_local_test.db
 .php_cs.cache
 
 .phpunit.result.cache
+.idea
